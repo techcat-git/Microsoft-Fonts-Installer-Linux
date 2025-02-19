@@ -21,7 +21,7 @@ ___________________________________________________________________________
 
 the script will automatically download font files needed. No user input is required.
 
-![image](https://github.com/user-attachments/assets/9af6a34c-0b16-4de2-bd42-9697441e76a7)
+![image](https://github.com/user-attachments/assets/0abdb1da-4837-4467-bd93-b2bfffe684c9)
 
 Fonts are installed to /usr/share/fonts
 
