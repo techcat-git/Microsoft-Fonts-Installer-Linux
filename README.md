@@ -1,5 +1,5 @@
 ______________________________________________________________________________________________________________________________________________________
-Easy to use bash script that installs Microsoft Fonts on Linux Distros.
+Easy to use program that installs Microsoft Fonts on Linux Distros.
 (Root Access Required)
 ______________________________________________________________________________________________________________________________________________________
 **PORTABLE INSTALL METHOD (FOR ALL ARCHITECTURES. INTERNET CONNECTION REQUIRED!)**
