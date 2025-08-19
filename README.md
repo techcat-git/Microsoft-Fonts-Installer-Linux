@@ -15,7 +15,7 @@ cd Microsoft-Fonts-Installer-Linux
 
 chmod a+x install-cli-portable.sh
 
-sudo ./install.sh
+sudo ./install-cli-portable.sh
 
 the script will automatically download font files needed from an external source. No user input is required.
 
