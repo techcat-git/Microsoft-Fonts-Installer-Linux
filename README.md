@@ -1,11 +1,11 @@
 ______________________________________________________________________________________________________________________________________________________
 Easy to use bash script that installs Microsoft Fonts on Linux Distros.
 (Root Access Required)
+______________________________________________________________________________________________________________________________________________________
+**PORTABLE INSTALL METHOD (FOR ALL ARCHITECTURES. INTERNET CONNECTION REQUIRED!)**
 
 REQUIRED PACKAGES:
 wget, unzip, git
-______________________________________________________________________________________________________________________________________________________
-**PORTABLE INSTALL METHOD (FOR ALL ARCHITECTURES. INTERNET CONNECTION REQUIRED!)**
 
 Install Guide:
 
