@@ -25,7 +25,7 @@ clear
 echo "TechCat's Mirror Selected."
 sleep 3
 clear
-wget http://dl.techcat.dev/Misc/Microsoft-Fonts-Linux-TTF.zip
+wget https://selfhost.techcat.dev/git-support/Microsoft-Fonts-Linux-TTF.zip
 unzip Microsoft-Fonts-Linux-TTF.zip
 cd Microsoft-Fonts-Linux-TTF
 ./install-fonts-linux.sh
